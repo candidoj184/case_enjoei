@@ -41,7 +41,7 @@ O processo de extração dos dados foi realizado, na etapa de consumo das APIs r
 
 ## Desenho da Arquitetura
 
-![Desenho da arquitetura](C:/Users/candi/OneDrive/Documentos/Enjoei/Case_enjoei/arquitetura_case_enjoeei.drawio.png)
+![Desenho de arquitetura](https://github.com/candidoj184/case_enjoei/raw/main/imagem/arquitetura_case_enjoei.png)
 
 ## Layout dos Arquivos
 
